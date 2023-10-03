@@ -1,4 +1,4 @@
-# matrix
+# Матрицы
 
 Реализация библиотеки matrix_oop.h
 
@@ -11,7 +11,7 @@
 
 ## Introduction
 
-![matrix](misc/images/_matrix.png)
+![matrix](images/matrixx.png)
 
 В данном проекте реализована библиотека для работы с матрицами на языке С++ с использованием ООП.
 

@@ -1,4 +1,4 @@
-# matrix+
+# Matrix
 
 Implementation of the matrix_oop.h library.
 
@@ -11,7 +11,7 @@ Implementation of the matrix_oop.h library.
 
 ## Introduction
 
-![matrix](misc/images/_matrix.png)
+![matrix](images/matrixx.png)
 
 This project implements a library for working with matrices in C++ using OOA.
 
